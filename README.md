@@ -7,6 +7,4 @@
 	<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
 		<img src="https://github-readme-streak-stats.herokuapp.com/?user=lorenzomarx&theme=gotham&hide_border=true"/></a>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lorenzomarx&show_icons=true">
-</p>
+
